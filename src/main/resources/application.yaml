@@ -1,3 +1,6 @@
 spring:
+  output:
+    ansi:
+      enabled: ALWAYS
   application:
     name: novastore
